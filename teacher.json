@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "643e6b310716273d4be2fd14"
+  },
+  "name": "teacher1",
+  "email": "teacher@123",
+  "password": "Teacher@123",
+  "_class": "com.example.mevenproject.document.Teacher"
+}]

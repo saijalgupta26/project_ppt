@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "643a4e315f7fbf7fac05af7e"
+  },
+  "name": "saijal",
+  "email": "saijal@123",
+  "rollno": 13,
+  "section": "S",
+  "password": "Sejal@123",
+  "_class": "com.example.mevenproject.document.Student"
+},{
+  "_id": {
+    "$oid": "6440c5cd9144c52a9cfff888"
+  },
+  "name": "ashu",
+  "email": "ashu@123",
+  "rollno": 1,
+  "section": "A",
+  "password": "Ashu@123",
+  "_class": "com.example.mevenproject.document.Student"
+},{
+  "_id": {
+    "$oid": "6440c5fd9144c52a9cfff889"
+  },
+  "name": "student1",
+  "email": "student1@123",
+  "rollno": 2,
+  "section": "A",
+  "password": "Student@123",
+  "_class": "com.example.mevenproject.document.Student"
+},{
+  "_id": {
+    "$oid": "6440c6649144c52a9cfff88c"
+  },
+  "name": "sagar",
+  "email": "sagar@123",
+  "rollno": 5,
+  "section": "A",
+  "password": "Sagar@123",
+  "_class": "com.example.mevenproject.document.Student"
+},{
+  "_id": {
+    "$oid": "6440c68d9144c52a9cfff88d"
+  },
+  "name": "siddhi",
+  "email": "siddhi@123",
+  "rollno": 1,
+  "section": "S",
+  "password": "Siddhi@123",
+  "_class": "com.example.mevenproject.document.Student"
+}]
